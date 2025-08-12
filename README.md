@@ -17,16 +17,7 @@ All data is saved in `Clients.txt` for persistence.
 
 ---
 
-[1] Show Client List
-[2] Add New Client
-[3] Delete Client
-[4] Update Client Info
-[5] Find Client
-[6] Exit
-
-
-
-Bank 1 Extension (Transactions)
+##Bank 1 Extension (Transactions)
 
 ### 🔄 Update Notes
 This version adds a **Transactions Menu** with deposit, withdraw, and total balance features.  
