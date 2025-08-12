@@ -1,6 +1,5 @@
 # Third Simple Project: Bank System
 
-Bank 1
 ## 📋 Description
 A simple **C++ console program** to manage clients stored in a text file.  
 You can view, add, update, delete, and search for clients through a menu system.  
@@ -17,7 +16,7 @@ All data is saved in `Clients.txt` for persistence.
 
 ---
 
-## Bank 1 Extension (Transactions)
+## Bank Extension (Transactions)
 
 ### 🔄 Update Notes
 This version adds a **Transactions Menu** with deposit, withdraw, and total balance features.  
