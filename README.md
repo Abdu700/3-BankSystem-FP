@@ -17,7 +17,7 @@ All data is saved in `Clients.txt` for persistence.
 
 ---
 
-##Bank 1 Extension (Transactions)
+## Bank 1 Extension (Transactions)
 
 ### 🔄 Update Notes
 This version adds a **Transactions Menu** with deposit, withdraw, and total balance features.  
